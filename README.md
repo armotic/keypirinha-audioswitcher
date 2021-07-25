@@ -8,7 +8,7 @@ Audio Switcher lets you change quickly the default input/output audio device of 
 
 ## Download
 
-Download the latest release from [here](https://github.com/USERNAME/keypirinha-PACKAGE/releases).
+Download the latest release from [here](https://github.com/USERNAME/keypirinha-audioswitcher/releases).
 
 
 ## Install
